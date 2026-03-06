@@ -1,0 +1,10 @@
+# Core DS stack
+pandas
+numpy
+matplotlib
+
+# Dashboard
+streamlit
+
+# Optional ML baseline (used when running pipeline.py --run-ml)
+scikit-learn
