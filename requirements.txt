@@ -1,0 +1,10 @@
+# Core DS stack
+pandas
+numpy
+matplotlib
+
+# Dashboard
+streamlit
+
+# Machine learning
+scikit-learn
