@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local intermediate outputs (generated)
+data/processed/*
+data/splits/*
+!data/processed/.gitkeep
+!data/splits/.gitkeep
+
+# Results and figures (keep in repo for demo)
+# If you prefer not to commit results, uncomment the next lines:
+# data/results/*
+# reports/figures/*
+!data/results/.gitkeep
+
+# Database (generated)
+database/*.db
+!database/.gitkeep
